@@ -22,7 +22,7 @@ Odoo organizes its assets into bundles. These bundles are declared within the mo
 
 Ex: 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cd67c677-3bbe-491a-ba9d-7c6636182027/51e30b8d-9352-4bb6-98d5-69200558c33f/Untitled.png)
+![Untitled](https://github.com/user-attachments/assets/a8bfce37-8553-4db1-a09b-f624b5f3c7d2)
 
 ### Note:
 
