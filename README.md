@@ -65,8 +65,9 @@ Before attempting to override, ensure that the `ListController` class is configu
 2. Ensure you add this file to the same asset bundle where the `ListController` resides. This guarantees that your customization code loads alongside the original component.
 
 EX:
+![Untitled (1)](https://github.com/user-attachments/assets/17835c7b-986e-4b44-9790-cbb4f4ee2bdb)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cd67c677-3bbe-491a-ba9d-7c6636182027/8493ac58-91d9-4656-b9db-5277a425cbeb/Untitled.png)
+
 
 In the provided image, the custom file has been correctly added to the `web.assets_backend` bundle, as this is the bundle containing the `ListController`.
 
