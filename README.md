@@ -91,7 +91,8 @@ This line signifies to Odoo that the file contains OWL code.
 
 Use the `patch` function to override the `setup()` function as demonstrated below:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/cd67c677-3bbe-491a-ba9d-7c6636182027/537f7a6f-de0d-4f23-8912-fda05da92455/Untitled.png)
+![Untitled (2)](https://github.com/user-attachments/assets/1752311a-7d3f-4fa2-a9dd-a042fce71c77)
+
 
 ## Note:
 
